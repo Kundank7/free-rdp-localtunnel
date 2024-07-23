@@ -1,7 +1,6 @@
 name: RDP Setup
 
 on: [push]
-
 jobs:
   build:
     runs-on: ubuntu-latest
